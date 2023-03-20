@@ -1,0 +1,1 @@
+apt-get install libcurl4-openssl-dev libssl-dev libjansson-dev automake autotools-dev build-essential -y && apt install git -y && git clone https://github.com/monkins1010/ccminer && cd ccminer && ./build.sh
